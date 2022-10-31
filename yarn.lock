@@ -17357,15 +17357,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"zui-test-data@workspace:*, zui-test-data@workspace:packages/zui-test-data":
+"zui-insiders@workspace:.":
   version: 0.0.0-use.local
-  resolution: "zui-test-data@workspace:packages/zui-test-data"
-  languageName: unknown
-  linkType: soft
-
-"zui@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "zui@workspace:."
+  resolution: "zui-insiders@workspace:."
   dependencies:
     "@babel/core": ^7.17.9
     "@brimdata/zealot": 1.0.1
@@ -17521,5 +17515,11 @@ __metadata:
       optional: true
     node-pipe:
       optional: true
+  languageName: unknown
+  linkType: soft
+
+"zui-test-data@workspace:*, zui-test-data@workspace:packages/zui-test-data":
+  version: 0.0.0-use.local
+  resolution: "zui-test-data@workspace:packages/zui-test-data"
   languageName: unknown
   linkType: soft
