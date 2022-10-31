@@ -1,11 +1,11 @@
 {
-  "name": "zui",
-  "productName": "Zui",
+  "name": "zui-insiders",
+  "productName": "Zui - Insiders",
   "private": true,
-  "description": "Zed User Interface",
+  "description": "Zui for early adoptors with frequent updates.",
   "repository": "https://github.com/brimdata/upgrade-test",
   "license": "BSD-3-Clause",
-  "version": "1.0.3",
+  "version": "0.30.1-115",
   "main": "dist/js/electron/main.js",
   "author": "Brim Data <support@brimdata.io> (http://www.brimdata.io)",
   "workspaces": [
