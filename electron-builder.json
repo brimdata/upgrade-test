@@ -1,5 +1,5 @@
 {
-  "appId": "com.electron.zuiinsiders",
+  "appId": "com.electron.zui-insiders",
   "asar": true,
   "asarUnpack": ["zdeps", "LICENSE.txt", "acknowledgments.txt"],
   "directories": {"output": "dist/installers"},
